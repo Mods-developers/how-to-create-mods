@@ -1,5 +1,5 @@
 # how-to-create-mods
-minecraft1.12.2のmod作成方法についてのドキュメント
+minecraft1.のmod作成方法についてのドキュメント
 
 ## GitHubへの登録
 
